@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SplitTestingforAndroid/SplitTestingforAndroid.iml" filepath="$PROJECT_DIR$/SplitTestingforAndroid/SplitTestingforAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SplitTestingforAndroidProject.iml" filepath="$PROJECT_DIR$/SplitTestingforAndroidProject.iml" />
+    </modules>
+  </component>
+</project>
+
